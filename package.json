@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/nbrignol/bookml/issues"
   },
-  "homepage": "https://github.com/nbrignol/bookml#readme"
+  "homepage": "https://github.com/nbrignol/bookml#readme",
+  "dependencies": {
+    "jsdom": "^12.0.0"
+  }
 }
