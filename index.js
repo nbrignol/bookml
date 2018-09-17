@@ -35,6 +35,8 @@ exports.BookML = function() {
 
              element.innerHTML = "";
              element.appendChild(span);
+             element.classList.add("heading");
+             element.classList.add("heading-" + element.tagName);
 
         }
 
